@@ -1,4 +1,4 @@
-# Soccer-Event-Detection - Information Retrieval Project - Paolo Cortis
+# Soccer Event Detection - Information Retrieval Project - Paolo Cortis
 
 Definition of a ML approach for event detection on still images.
 Experiments with Convolutional Neural Networks, clustering models, data augmentation and transfer learning on still images on the Soccer EVent (SEV) dataset.

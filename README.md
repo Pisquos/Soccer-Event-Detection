@@ -5,5 +5,5 @@ Experiments with Convolutional Neural Networks, clustering models, data augmenta
 
 The project focuses on the definition of a pipeline to tackle the task, the construction of the models and the design of sound experimental procedures to obtain statistically reliable results.
 
-For the main code check *Information_Project* notebook. Also available in HTML.  
+For the main code check the *Information_Project* notebook. Also available in HTML.  
 For the full report check the *InformationProject_Report* PDF.
